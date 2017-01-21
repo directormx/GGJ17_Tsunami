@@ -8,6 +8,9 @@ public class SpawnObjects : MonoBehaviour {
 	public float coordenadaX;
 	public float coordenadaY;
 	public float coordenadaZ;
+	public float probabilidadMinima;
+	public float probabilidadMaxima;
+	public float wildCard;
 	void Start () {
 
 		InvokeRepeating ("SpawnObject", frecuenciaDeSpawneo, frecuenciaDeSpawneo);
@@ -16,8 +19,12 @@ public class SpawnObjects : MonoBehaviour {
 
 	void SpawnObject()
 	{
-		Vector3 position = new Vector3(coordenadaX, coordenadaY, coordenadaZ);
-		GameObject newGameObject = Instantiate(objetoASpawnear);
-		newGameObject.transform.position = position;
+		int randomNumber = (int)(Random.Range( probabilidadMinima, probabilidadMaxima ));
+		if (randomNumber != wildCard) {
+			Vector3 position = new Vector3(coordenadaX, coordenadaY, coordenadaZ);
+			GameObject newGameObject = Instantiate(objetoASpawnear);
+			newGameObject.transform.position = position;
+		}
+
 	}
 }
