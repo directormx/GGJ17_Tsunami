@@ -21,7 +21,13 @@ public class SpawnObjects : MonoBehaviour {
 	{
 		int randomNumber = (int)(Random.Range( probabilidadMinima, probabilidadMaxima ));
 		if (randomNumber != wildCard) {
-			Vector3 position = new Vector3(coordenadaX, coordenadaY, coordenadaZ);
+			Vector3 position;
+			if (coordenadaX ==-99) {
+				position = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, coordenadaZ);
+			} else {
+				position = new Vector3(coordenadaX, coordenadaY, coordenadaZ);
+			}
+			 
 			GameObject newGameObject = Instantiate(objetoASpawnear);
 			newGameObject.transform.position = position;
 		}

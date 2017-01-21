@@ -49,6 +49,7 @@
      <Compile Include="Assets\My Scripts\GameController.cs" />
      <Compile Include="Assets\My Scripts\ObjectDestroyer.cs" />
      <Compile Include="Assets\My Scripts\PlayerController.cs" />
+     <Compile Include="Assets\My Scripts\SinMovement.cs" />
      <Compile Include="Assets\My Scripts\SpawnObjects.cs" />
      <Compile Include="Assets\My Scripts\TransportarObjetos.cs" />
      <None Include="Assets\My Sprites\Base pack\Enemies\enemies_spritesheet.txt" />
