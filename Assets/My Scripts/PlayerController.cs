@@ -48,26 +48,24 @@ public class PlayerController : BaseCharacter
 		{
 			grounded = true;
 		}
+		if (coll.gameObject.tag == "Civilians") {
+			gameController.IncreaseCivilians ();
+			Destroy (coll.gameObject);
+		}
+	
 	}
 
-	//void OnCollisionExit2D(Collision2D coll)
-	//{
-	//	if (coll.gameObject.tag == "Ground")
-	//		grounded = false;
-
-	//}
-
-	//void OnCollisionEnter2D(Collision2D coll)
-	//{
-	//	if (coll.gameObject.tag == "Ground") {
-	//		grounded = true;
-	//	}
-	//	else
-	//	{
-	//		grounded = false;
-	//	}
-
-	//}
+	public void OnTriggerEnter2D(Collider2D coll) {
+		if (coll.gameObject.tag == "Collectible") {
+			gameController.IncreaseCollectible ();
+			Destroy (coll.gameObject);
+		}
+		if (coll.gameObject.tag == "Civilians") {
+			gameController.IncreaseCivilians ();
+			Destroy (coll.gameObject);
+		}
+	}
+		
 
 	override public void Move()
 	{
