@@ -8,6 +8,10 @@ public class GameController : MonoBehaviour
 	int civilians;
 	int collectibles;
 
+	private AudioSource audioSource;
+	public AudioClip coinSound;
+	public float volume;
+
 	void Start()
 	{
 		HasGameStarted = false;
@@ -19,6 +23,11 @@ public class GameController : MonoBehaviour
 	void Update()
 	{
 
+	}
+
+	void Awake()
+	{
+		audioSource = GetComponent<AudioSource>();
 	}
 
 	public void ReloadScene()
@@ -33,6 +42,7 @@ public class GameController : MonoBehaviour
 
 	public void IncreaseCollectible()
 	{
+		PlayCoinSound ();
 		collectibles++;
 	}
 	public void IncreaseCivilians()
@@ -48,6 +58,13 @@ public class GameController : MonoBehaviour
 	{
 		return "Civilans: " + civilians;
 	}
+		
+
+	void PlayCoinSound()
+	{
+		audioSource.PlayOneShot(coinSound, volume);
+	}
+
 
 	void OnGUI()
 	{

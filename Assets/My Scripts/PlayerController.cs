@@ -82,6 +82,7 @@ public class PlayerController : BaseCharacter
 		{
 			GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jumpForce));
 			secondJump = false;
+			PlayJumpSound();
 		}
 		// Jump
 		if (Input.GetKeyDown(KeyCode.Space) && grounded)
