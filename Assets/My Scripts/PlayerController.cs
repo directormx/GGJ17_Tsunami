@@ -25,6 +25,7 @@ public class PlayerController : BaseCharacter
 	override public void Start()
 	{
 		base.Start();
+		Time.timeScale = 1;
 
 	}
 

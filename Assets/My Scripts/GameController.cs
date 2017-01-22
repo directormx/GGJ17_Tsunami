@@ -21,6 +21,16 @@ public class GameController : MonoBehaviour
 
 	}
 
+	public void ReloadScene()
+	{
+		Application.LoadLevel("Level1");
+	}
+
+	public void LoadMainMenu()
+	{
+		Application.LoadLevel("Intro");
+	}
+
 	public void IncreaseCollectible()
 	{
 		collectibles++;
