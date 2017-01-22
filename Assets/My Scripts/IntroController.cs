@@ -7,10 +7,22 @@ public class IntroController : MonoBehaviour {
 	GameObject olaSpawneada;
 	public float velocidadOla;
 	public float frecuencia;
+	private AudioSource audioSource;
+	public AudioClip olaSound;
+	public float volume;
+
 	void Start()
 	{
 		Time.timeScale = 1;
 		MostrarOla ();
+	}
+	void Awake()
+	{
+		audioSource = GetComponent<AudioSource>();
+	}
+	void PlayOlaSound()
+	{
+		audioSource.PlayOneShot(olaSound, volume);
 	}
 	public void IrALevel1()
 	{
@@ -26,6 +38,7 @@ public class IntroController : MonoBehaviour {
 
 	public void EnviarOla()
 	{
+		PlayOlaSound ();
 		InvokeRepeating ("AvanzarOla", frecuencia, frecuencia);
 	}
 
