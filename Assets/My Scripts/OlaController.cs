@@ -24,8 +24,10 @@ public class OlaController : MonoBehaviour {
 
 	void SpawnPlayerDead()
 	{
+		GameObject player =  GameObject.Find("Player");
+		Vector3 position = player.transform.position;
 		GameObject newGameObject = Instantiate(playerDead);
-		newGameObject.transform.position =new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, 0);
+		newGameObject.transform.position = position;
 	}
 
 	public void MostrarGameOver()
