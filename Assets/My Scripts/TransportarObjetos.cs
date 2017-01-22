@@ -14,6 +14,7 @@ public class TransportarObjetos : MonoBehaviour {
 	void Update () {
 		MoverObjeto ();
 	}
+		
 
 	void MoverObjeto()
 	{
