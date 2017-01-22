@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 6ba73e9b26a7e43a99b5023672c1c61d
+timeCreated: 1485053225
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player (1)_0
+    21300002: Player (1)_1
+    21300004: Player (1)_2
+    21300006: Player (1)_3
+    21300008: Player (1)_4
+    21300010: Player (1)_5
+    21300012: Player (1)_6
+    21300014: Player (1)_7
+    21300016: Player (1)_8
+    21300018: Player (1)_9
+    21300020: Player (1)_10
+    21300022: Player (1)_11
+    21300024: Player (1)_12
+    21300026: Player (1)_13
+    21300028: Player (1)_14
+    21300030: Player (1)_15
+    21300032: Player (1)_16
+    21300034: Player (1)_17
+    21300036: Player (1)_18
+    21300038: Player (1)_19
+    21300040: Player (1)_20
+    21300042: Player (1)_21
+    21300044: Player (1)_22
+    21300046: Player (1)_23
+    21300048: Player (1)_24
+    21300050: Player (1)_25
+    21300052: Player (1)_26
+    21300054: Player (1)_27
+    21300056: Player (1)_28
+    21300058: Player (1)_29
+    21300060: Player (1)_30
+    21300062: Player (1)_31
+    21300064: Player (1)_32
+    21300066: Player (1)_33
+    21300068: Player (1)_34
+    21300070: Player (1)_35
+    21300072: Player (1)_36
+    21300074: Player (1)_37
+    21300076: Player (1)_38
+    21300078: Player (1)_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player (1)_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 35
+        width: 102
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.845808, y: 38.188335}
+        - {x: -20.845808, y: 36.188335}
+        - {x: -22.845808, y: 25.188335}
+        - {x: -22.845808, y: -36.811665}
+        - {x: 22.154192, y: -36.811665}
+        - {x: 24.154192, y: -32.811665}
+        - {x: 24.154192, y: 34.188335}
+        - {x: 16.154192, y: 38.188335}
+    - name: Player (1)_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 32
+        width: 98
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.850185, y: 38.34362}
+        - {x: -21.850185, y: 21.34362}
+        - {x: -21.850185, y: -37.65638}
+        - {x: 8.149815, y: -37.65638}
+        - {x: 14.149815, y: -36.65638}
+        - {x: 23.149815, y: -35.65638}
+        - {x: 23.149815, y: 30.34362}
+        - {x: 12.149815, y: 38.34362}
+    - name: Player (1)_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 90
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.958084, y: 38.947144}
+        - {x: -19.958084, y: -38.052856}
+        - {x: 21.041916, y: -38.052856}
+        - {x: 21.041916, y: 34.947144}
+        - {x: 11.041916, y: 38.947144}
+    - name: Player (1)_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 28
+        width: 87
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.462463, y: 39.550667}
+        - {x: -19.462463, y: 32.550667}
+        - {x: -19.462463, y: -38.449333}
+        - {x: 13.537537, y: -38.449333}
+        - {x: 20.537537, y: -34.449333}
+        - {x: 20.537537, y: 35.550667}
+        - {x: 17.537537, y: 39.550667}
+    - name: Player (1)_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 26
+        width: 85
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.033157, y: -18.84581}
+        - {x: 18.033157, y: 3.15419}
+        - {x: 20.033157, y: 12.15419}
+        - {x: 20.033157, y: 32.15419}
+        - {x: 9.033157, y: 40.15419}
+        - {x: -14.966843, y: 40.15419}
+        - {x: -18.966843, y: 32.15419}
+        - {x: -18.966843, y: -38.84581}
+        - {x: 12.033157, y: -38.84581}
+        - {x: 20.033157, y: -34.84581}
+        - {x: 20.033157, y: -20.84581}
+        - {x: 15.033157, y: -16.84581}
+    - name: Player (1)_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 26
+        width: 82
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.528778, y: -18.84581}
+        - {x: 18.528778, y: 9.15419}
+        - {x: 12.528778, y: 15.15419}
+        - {x: 19.528778, y: 21.15419}
+        - {x: 19.528778, y: 29.15419}
+        - {x: 15.528778, y: 37.15419}
+        - {x: 11.528778, y: 40.15419}
+        - {x: -18.471222, y: 40.15419}
+        - {x: -18.471222, y: -38.84581}
+        - {x: 5.528778, y: -38.84581}
+        - {x: 19.528778, y: -28.84581}
+        - {x: 19.528778, y: -26.84581}
+        - {x: 12.528778, y: -16.84581}
+    - name: Player (1)_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 23
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.024414, y: 33.30948}
+        - {x: 13.024414, y: 40.30948}
+        - {x: -15.975586, y: 40.30948}
+        - {x: -17.975586, y: 35.30948}
+        - {x: -17.975586, y: -38.69052}
+        - {x: -15.975586, y: -39.69052}
+        - {x: 10.024414, y: -39.69052}
+        - {x: 18.024414, y: -22.690521}
+        - {x: 19.024414, y: -19.690521}
+    - name: Player (1)_7
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 23
+        width: 78
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.376434, y: 40.30948}
+        - {x: -17.376434, y: -31.690521}
+        - {x: -13.376434, y: -39.69052}
+        - {x: 11.623566, y: -39.69052}
+        - {x: 18.623566, y: -33.69052}
+        - {x: 18.623566, y: 37.30948}
+        - {x: 17.623566, y: 40.30948}
+    - name: Player (1)_8
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 23
+        width: 78
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.277283, y: 40.30948}
+        - {x: -17.277283, y: -39.69052}
+        - {x: 18.722717, y: -39.69052}
+        - {x: 18.722717, y: 39.30948}
+        - {x: 14.722717, y: 40.30948}
+    - name: Player (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 23
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.022858, y: 40.30948}
+        - {x: -18.022858, y: -31.690521}
+        - {x: -10.022858, y: -39.69052}
+        - {x: 9.977142, y: -39.69052}
+        - {x: 18.977142, y: -31.690521}
+        - {x: 18.977142, y: 38.30948}
+        - {x: 14.977142, y: 40.30948}
+    - name: Player (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 23
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.82019, y: 40.30948}
+        - {x: -17.82019, y: 35.30948}
+        - {x: -17.82019, y: -2.6905212}
+        - {x: -14.82019, y: -27.690521}
+        - {x: -10.82019, y: -34.69052}
+        - {x: -7.8201904, y: -39.69052}
+        - {x: 19.17981, y: -39.69052}
+        - {x: 19.17981, y: 33.30948}
+        - {x: 9.17981, y: 40.30948}
+    - name: Player (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 23
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.169312, y: 40.30948}
+        - {x: -18.169312, y: 38.30948}
+        - {x: -18.169312, y: -14.690521}
+        - {x: -17.169312, y: -21.690521}
+        - {x: -11.169312, y: -38.69052}
+        - {x: -9.169312, y: -39.69052}
+        - {x: 17.830688, y: -39.69052}
+        - {x: 18.830688, y: -17.690521}
+        - {x: 18.830688, y: 31.309479}
+        - {x: 11.830688, y: 40.30948}
+    - name: Player (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 21
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.57013, y: 40.913002}
+        - {x: -17.57013, y: -11.086998}
+        - {x: -12.570129, y: -39.086998}
+        - {x: -9.570129, y: -40.086998}
+        - {x: 16.42987, y: -40.086998}
+        - {x: 18.42987, y: 4.913002}
+        - {x: 18.42987, y: 32.913002}
+        - {x: 13.429871, y: 40.913002}
+    - name: Player (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 23
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.608643, y: 40.80948}
+        - {x: -17.608643, y: -12.190521}
+        - {x: -14.608643, y: -37.19052}
+        - {x: -9.608643, y: -40.19052}
+        - {x: 14.391357, y: -40.19052}
+        - {x: 18.391357, y: -21.190521}
+        - {x: 18.391357, y: 39.80948}
+        - {x: 16.391357, y: 40.80948}
+    - name: Player (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 21
+        width: 80
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.906006, y: 41.413002}
+        - {x: -17.906006, y: 39.413002}
+        - {x: -17.906006, y: 2.413002}
+        - {x: -13.906006, y: -34.586998}
+        - {x: -3.9060059, y: -40.586998}
+        - {x: 15.093994, y: -40.586998}
+        - {x: 19.093994, y: -11.586998}
+        - {x: 19.093994, y: 38.413002}
+        - {x: 13.093994, y: 41.413002}
+    - name: Player (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 19
+        width: 78
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.306824, y: 42.016525}
+        - {x: -17.306824, y: -8.983475}
+        - {x: -14.306824, y: -33.983475}
+        - {x: -5.3068237, y: -40.983475}
+        - {x: 4.6931763, y: -40.983475}
+        - {x: 13.693176, y: -33.983475}
+        - {x: 18.693176, y: 5.0165253}
+        - {x: 18.693176, y: 38.016525}
+        - {x: 14.693176, y: 42.016525}
+    - name: Player (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 19
+        width: 79
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.655945, y: 42.016525}
+        - {x: -17.655945, y: -28.983475}
+        - {x: -16.655945, y: -34.983475}
+        - {x: -6.655945, y: -40.983475}
+        - {x: 10.344055, y: -40.983475}
+        - {x: 18.344055, y: -35.983475}
+        - {x: 18.344055, y: 42.016525}
+    - name: Player (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 19
+        width: 78
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.556763, y: 42.016525}
+        - {x: -17.556763, y: -37.983475}
+        - {x: -12.556763, y: -40.983475}
+        - {x: 4.4432373, y: -40.983475}
+        - {x: 14.443237, y: -37.983475}
+        - {x: 18.443237, y: -26.983475}
+        - {x: 18.443237, y: 42.016525}
+    - name: Player (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 19
+        width: 78
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.542358, y: 17.016525}
+        - {x: 10.542358, y: 16.016525}
+        - {x: 18.542358, y: 25.016525}
+        - {x: 18.542358, y: 36.016525}
+        - {x: 11.542358, y: 42.016525}
+        - {x: -17.457642, y: 42.016525}
+        - {x: -17.457642, y: -34.983475}
+        - {x: -12.457642, y: -40.983475}
+        - {x: 10.542358, y: -40.983475}
+        - {x: 17.542358, y: -38.983475}
+        - {x: 18.542358, y: -14.983475}
+        - {x: 18.542358, y: 15.016525}
+        - {x: 15.542358, y: 17.016525}
+    - name: Player (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 19
+        width: 80
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.85846, y: 42.016525}
+        - {x: -17.85846, y: -32.983475}
+        - {x: -10.858459, y: -40.983475}
+        - {x: 8.141541, y: -40.983475}
+        - {x: 19.14154, y: -30.983475}
+        - {x: 19.14154, y: 41.016525}
+        - {x: 18.14154, y: 42.016525}
+    - name: Player (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 19
+        width: 79
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.70752, y: 42.016525}
+        - {x: -17.70752, y: -36.983475}
+        - {x: -12.70752, y: -40.983475}
+        - {x: 5.2924805, y: -40.983475}
+        - {x: 18.29248, y: -30.983475}
+        - {x: 18.29248, y: 42.016525}
+    - name: Player (1)_21
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 19
+        width: 80
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.004883, y: 42.016525}
+        - {x: -18.004883, y: -40.983475}
+        - {x: 8.995117, y: -40.983475}
+        - {x: 18.995117, y: -36.983475}
+        - {x: 18.995117, y: 42.016525}
+    - name: Player (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 19
+        width: 84
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.69873, y: 42.016525}
+        - {x: -18.69873, y: -39.983475}
+        - {x: -17.69873, y: -40.983475}
+        - {x: 3.3012695, y: -40.983475}
+        - {x: 20.30127, y: -33.983475}
+        - {x: 20.30127, y: 42.016525}
+    - name: Player (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 19
+        width: 85
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.944336, y: 42.016525}
+        - {x: -18.944336, y: -32.983475}
+        - {x: -15.944336, y: -40.983475}
+        - {x: 0.055664062, y: -40.983475}
+        - {x: 20.055664, y: -31.983475}
+        - {x: 20.055664, y: 38.016525}
+        - {x: 14.055664, y: 42.016525}
+    - name: Player (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 19
+        width: 87
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.689819, y: 42.016525}
+        - {x: -19.68982, y: 32.016525}
+        - {x: -19.68982, y: -36.983475}
+        - {x: -13.689819, y: -40.983475}
+        - {x: 2.3101807, y: -40.983475}
+        - {x: 20.31018, y: -31.983475}
+        - {x: 20.31018, y: 39.016525}
+        - {x: 15.310181, y: 42.016525}
+    - name: Player (1)_25
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 19
+        width: 89
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.987183, y: 42.016525}
+        - {x: -19.987183, y: 33.016525}
+        - {x: -19.987183, y: -35.983475}
+        - {x: -17.987183, y: -40.983475}
+        - {x: 21.012817, y: -40.983475}
+        - {x: 21.012817, y: 36.016525}
+        - {x: 9.012817, y: 42.016525}
+    - name: Player (1)_26
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 19
+        width: 87
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.422119, y: 42.016525}
+        - {x: -19.42212, y: 31.016525}
+        - {x: -19.42212, y: -40.983475}
+        - {x: 1.5778809, y: -40.983475}
+        - {x: 20.57788, y: -32.983475}
+        - {x: 20.57788, y: 35.016525}
+        - {x: 10.577881, y: 42.016525}
+    - name: Player (1)_27
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 23
+        width: 84
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.926514, y: 40.80948}
+        - {x: -18.926514, y: -40.19052}
+        - {x: 8.073486, y: -40.19052}
+        - {x: 20.073486, y: -36.19052}
+        - {x: 20.073486, y: 37.80948}
+        - {x: 19.073486, y: 40.80948}
+    - name: Player (1)_28
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 26
+        width: 78
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.534424, y: 40.65419}
+        - {x: -17.534424, y: -39.34581}
+        - {x: 13.465576, y: -39.34581}
+        - {x: 18.465576, y: -11.34581}
+        - {x: 18.465576, y: 38.65419}
+        - {x: 15.465576, y: 40.65419}
+    - name: Player (1)_29
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 30
+        width: 78
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.435303, y: 39.447144}
+        - {x: -17.435303, y: -38.552856}
+        - {x: 11.564697, y: -38.552856}
+        - {x: 18.564697, y: 7.4471436}
+        - {x: 18.564697, y: 31.447144}
+        - {x: 8.564697, y: 39.447144}
+    - name: Player (1)_30
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 28
+        width: 81
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.819092, y: 40.050667}
+        - {x: -18.180908, y: 40.050667}
+        - {x: -18.180908, y: -24.949333}
+        - {x: -17.180908, y: -36.949333}
+        - {x: -15.180908, y: -38.949333}
+        - {x: 12.819092, y: -38.949333}
+        - {x: 18.819092, y: -4.949333}
+        - {x: 18.819092, y: 35.050667}
+        - {x: 12.819092, y: 39.050667}
+    - name: Player (1)_31
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 28
+        width: 79
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.581665, y: 40.050667}
+        - {x: -17.581665, y: -33.949333}
+        - {x: -12.581665, y: -38.949333}
+        - {x: 11.418335, y: -38.949333}
+        - {x: 18.418335, y: -14.949333}
+        - {x: 18.418335, y: 40.050667}
+    - name: Player (1)_32
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 26
+        width: 78
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.517456, y: 40.65419}
+        - {x: -17.482544, y: 40.65419}
+        - {x: -17.482544, y: -39.34581}
+        - {x: 9.517456, y: -39.34581}
+        - {x: 18.517456, y: -7.34581}
+        - {x: 18.517456, y: 34.65419}
+    - name: Player (1)_33
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 26
+        width: 80
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.779907, y: 40.65419}
+        - {x: -17.779907, y: -35.34581}
+        - {x: -16.779907, y: -39.34581}
+        - {x: 19.220093, y: -39.34581}
+        - {x: 19.220093, y: 40.65419}
+    - name: Player (1)_34
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 24
+        width: 81
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.129028, y: 41.257713}
+        - {x: -18.129028, y: 40.257713}
+        - {x: -18.129028, y: -31.742287}
+        - {x: -9.129028, y: -39.742287}
+        - {x: 14.870972, y: -39.742287}
+        - {x: 17.870972, y: -38.742287}
+        - {x: 18.870972, y: -29.742287}
+        - {x: 18.870972, y: 39.257713}
+        - {x: 14.870972, y: 41.257713}
+    - name: Player (1)_35
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 23
+        width: 82
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.322754, y: 40.80948}
+        - {x: -18.322754, y: -37.19052}
+        - {x: -13.322754, y: -40.19052}
+        - {x: 19.677246, y: -40.19052}
+        - {x: 19.677246, y: 40.80948}
+    - name: Player (1)_36
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 26
+        width: 85
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.068359, y: 40.65419}
+        - {x: -19.06836, y: 38.65419}
+        - {x: -19.06836, y: -34.34581}
+        - {x: -18.06836, y: -39.34581}
+        - {x: 19.93164, y: -39.34581}
+        - {x: 19.93164, y: 37.65419}
+        - {x: 12.931641, y: 40.65419}
+    - name: Player (1)_37
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 28
+        width: 90
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.21045, y: 40.050667}
+        - {x: -20.21045, y: -38.949333}
+        - {x: 20.78955, y: -38.949333}
+        - {x: 20.78955, y: 37.050667}
+        - {x: 16.78955, y: 40.050667}
+    - name: Player (1)_38
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 32
+        width: 94
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.99231, y: 38.84362}
+        - {x: -16.00769, y: 38.84362}
+        - {x: -20.00769, y: 20.84362}
+        - {x: -21.00769, y: 8.84362}
+        - {x: -21.00769, y: -38.15638}
+        - {x: 11.99231, y: -38.15638}
+        - {x: 21.99231, y: -33.15638}
+        - {x: 21.99231, y: 30.84362}
+    - name: Player (1)_39
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 39
+        width: 103
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.012085, y: 37.481285}
+        - {x: -22.012085, y: 34.481285}
+        - {x: -23.012085, y: 24.481285}
+        - {x: -23.012085, y: -36.518715}
+        - {x: 23.987915, y: -36.518715}
+        - {x: 23.987915, y: 32.481285}
+        - {x: 17.987915, y: 37.481285}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
