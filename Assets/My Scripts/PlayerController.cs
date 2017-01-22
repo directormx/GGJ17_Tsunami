@@ -51,6 +51,7 @@ public class PlayerController : BaseCharacter
 		}
 		if (coll.gameObject.tag == "Civilians") {
 			gameController.IncreaseCivilians ();
+			AdelantarPersonaje ();
 			Destroy (coll.gameObject);
 		}
 	
@@ -63,8 +64,17 @@ public class PlayerController : BaseCharacter
 		}
 		if (coll.gameObject.tag == "Civilians") {
 			gameController.IncreaseCivilians ();
+			AdelantarPersonaje ();
 			Destroy (coll.gameObject);
 		}
+	}
+
+	void AdelantarPersonaje()
+	{
+		if (transform.position.x <= 0.01) {
+			GetComponent<Rigidbody2D>().AddForce(new Vector2(jumpForce/2, 0));
+		}
+
 	}
 		
 
