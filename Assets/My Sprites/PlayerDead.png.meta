@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: fde758115fcc04b8da662851cee27abc
+timeCreated: 1485057559
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerDead_0
+    21300002: PlayerDead_1
+    21300004: PlayerDead_2
+    21300006: PlayerDead_3
+    21300008: PlayerDead_4
+    21300010: PlayerDead_5
+    21300012: PlayerDead_6
+    21300014: PlayerDead_7
+    21300016: PlayerDead_8
+    21300018: PlayerDead_9
+    21300020: PlayerDead_10
+    21300022: PlayerDead_11
+    21300024: PlayerDead_12
+    21300026: PlayerDead_13
+    21300028: PlayerDead_14
+    21300030: PlayerDead_15
+    21300032: PlayerDead_16
+    21300034: PlayerDead_17
+    21300036: PlayerDead_18
+    21300038: PlayerDead_19
+    21300040: PlayerDead_20
+    21300042: PlayerDead_21
+    21300044: PlayerDead_22
+    21300046: PlayerDead_23
+    21300048: PlayerDead_24
+    21300050: PlayerDead_25
+    21300052: PlayerDead_26
+    21300054: PlayerDead_27
+    21300056: PlayerDead_28
+    21300058: PlayerDead_29
+    21300060: PlayerDead_30
+    21300062: PlayerDead_31
+    21300064: PlayerDead_32
+    21300066: PlayerDead_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerDead_0
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 297
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayerDead_1
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 300
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayerDead_2
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 58
+        width: 138
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.996826, y: 38.96302}
+        - {x: -21.996826, y: -6.0369797}
+        - {x: -21.996826, y: -37.03698}
+        - {x: -14.996826, y: -38.03698}
+        - {x: 13.003174, y: -38.03698}
+        - {x: 22.003174, y: 11.96302}
+        - {x: 22.003174, y: 31.96302}
+        - {x: 13.003174, y: 38.96302}
+    - name: PlayerDead_3
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 58
+        width: 140
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.00647, y: 38.96302}
+        - {x: -21.00647, y: 25.96302}
+        - {x: -21.00647, y: -32.03698}
+        - {x: -11.00647, y: -38.03698}
+        - {x: 14.99353, y: -38.03698}
+        - {x: 23.99353, y: -12.03698}
+        - {x: 23.99353, y: 36.96302}
+        - {x: 21.99353, y: 38.96302}
+    - name: PlayerDead_4
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 294
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayerDead_5
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 294
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PlayerDead_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 74
+        width: 135
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.536978, y: 35.556267}
+        - {x: -21.536978, y: 30.556267}
+        - {x: -21.536978, y: -34.443733}
+        - {x: 20.463022, y: -34.443733}
+        - {x: 22.463022, y: -31.443733}
+        - {x: 22.463022, y: 30.556267}
+        - {x: 19.463022, y: 35.556267}
+    - name: PlayerDead_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 68
+        width: 132
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.146301, y: 36.1463}
+        - {x: -21.146301, y: 20.146301}
+        - {x: -21.146301, y: -34.8537}
+        - {x: 19.853699, y: -34.8537}
+        - {x: 21.853699, y: -31.853699}
+        - {x: 21.853699, y: 32.1463}
+        - {x: 12.853699, y: 36.1463}
+    - name: PlayerDead_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 64
+        width: 132
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.348877, y: 35.87299}
+        - {x: -21.348877, y: 30.87299}
+        - {x: -21.348877, y: -35.12701}
+        - {x: 21.651123, y: -35.12701}
+        - {x: 21.651123, y: 35.87299}
+    - name: PlayerDead_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 61
+        width: 131
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.868179, y: 36.418007}
+        - {x: -20.86818, y: 1.4180069}
+        - {x: -20.86818, y: -35.581993}
+        - {x: 21.13182, y: -35.581993}
+        - {x: 21.13182, y: 36.418007}
+    - name: PlayerDead_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 68
+        width: 131
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.115753, y: 36.6463}
+        - {x: -18.884247, y: 36.6463}
+        - {x: -20.884247, y: 14.646301}
+        - {x: -20.884247, y: -34.3537}
+        - {x: -18.884247, y: -35.3537}
+        - {x: 21.115753, y: -35.3537}
+        - {x: 21.115753, y: 33.6463}
+        - {x: 20.115753, y: 35.6463}
+    - name: PlayerDead_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 68
+        width: 132
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.757233, y: 36.6463}
+        - {x: -20.757233, y: 28.646301}
+        - {x: -20.757233, y: -35.3537}
+        - {x: 22.242767, y: -35.3537}
+        - {x: 22.242767, y: 32.6463}
+        - {x: 18.242767, y: 36.6463}
+    - name: PlayerDead_12
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 52
+        width: 134
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.221893, y: 37.553055}
+        - {x: -12.221893, y: 33.553055}
+        - {x: -21.221893, y: -1.4469452}
+        - {x: -21.221893, y: -29.446945}
+        - {x: -19.221893, y: -36.446945}
+        - {x: 22.778107, y: -36.446945}
+        - {x: 22.778107, y: 37.553055}
+    - name: PlayerDead_13
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 61
+        width: 134
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.331207, y: 37.918007}
+        - {x: -21.331207, y: 5.918007}
+        - {x: -21.331207, y: -37.081993}
+        - {x: 17.668793, y: -37.081993}
+        - {x: 22.668793, y: -26.081993}
+        - {x: 22.668793, y: 37.918007}
+    - name: PlayerDead_14
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 55
+        width: 135
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.75885, y: -37.491962}
+        - {x: 22.24115, y: -37.491962}
+        - {x: 22.24115, y: 37.508038}
+        - {x: 21.24115, y: 38.508038}
+        - {x: -8.75885, y: 38.508038}
+        - {x: -14.75885, y: 36.508038}
+        - {x: -21.75885, y: -0.49196243}
+    - name: PlayerDead_15
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 49
+        width: 135
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.643127, y: 39.09807}
+        - {x: -13.643127, y: 37.09807}
+        - {x: -21.643127, y: -5.901932}
+        - {x: -21.643127, y: -37.90193}
+        - {x: 15.356873, y: -37.90193}
+        - {x: 22.356873, y: 18.098068}
+        - {x: 22.356873, y: 31.098068}
+        - {x: 14.356873, y: 39.09807}
+    - name: PlayerDead_16
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 49
+        width: 138
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.019287, y: 39.09807}
+        - {x: -9.980713, y: 39.09807}
+        - {x: -13.980713, y: 38.09807}
+        - {x: -21.980713, y: 4.098068}
+        - {x: -21.980713, y: -32.90193}
+        - {x: -1.9807129, y: -37.90193}
+        - {x: 9.019287, y: -37.90193}
+        - {x: 12.019287, y: -36.90193}
+        - {x: 22.019287, y: 10.098068}
+        - {x: 22.019287, y: 35.09807}
+    - name: PlayerDead_17
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 46
+        width: 138
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.879456, y: 39.643085}
+        - {x: -20.879456, y: 5.6430855}
+        - {x: -20.879456, y: -28.356915}
+        - {x: -19.879456, y: -32.356915}
+        - {x: -12.879456, y: -38.356915}
+        - {x: 11.120544, y: -38.356915}
+        - {x: 23.120544, y: -12.3569145}
+        - {x: 23.120544, y: 39.643085}
+    - name: PlayerDead_18
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 39
+        width: 142
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5820312, y: 39.41479}
+        - {x: -9.582031, y: 35.41479}
+        - {x: -21.582031, y: -2.585209}
+        - {x: -21.582031, y: -30.585209}
+        - {x: -10.582031, y: -38.58521}
+        - {x: 2.4179688, y: -38.58521}
+        - {x: 15.417969, y: -27.585209}
+        - {x: 23.417969, y: 2.414791}
+        - {x: 23.417969, y: 35.41479}
+        - {x: 18.417969, y: 39.41479}
+    - name: PlayerDead_19
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 39
+        width: 141
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.691345, y: 38.41479}
+        - {x: -21.691345, y: 8.414791}
+        - {x: -21.691345, y: -30.585209}
+        - {x: -12.691345, y: -37.58521}
+        - {x: 13.308655, y: -37.58521}
+        - {x: 23.308655, y: -12.585209}
+        - {x: 23.308655, y: 38.41479}
+    - name: PlayerDead_20
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 36
+        width: 141
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.575623, y: 38.45981}
+        - {x: -21.575623, y: 13.459808}
+        - {x: -21.575623, y: -37.54019}
+        - {x: 0.42437744, y: -37.54019}
+        - {x: 23.424377, y: -12.540192}
+        - {x: 23.424377, y: 35.45981}
+        - {x: 17.424377, y: 38.45981}
+    - name: PlayerDead_21
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 39
+        width: 145
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.413208, y: 37.91479}
+        - {x: -12.413208, y: 35.91479}
+        - {x: -22.413208, y: -9.085209}
+        - {x: -22.413208, y: -30.085209}
+        - {x: -16.413208, y: -37.08521}
+        - {x: -0.413208, y: -37.08521}
+        - {x: 23.586792, y: -5.085209}
+        - {x: 23.586792, y: 34.91479}
+        - {x: 19.586792, y: 37.91479}
+    - name: PlayerDead_22
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 52
+        width: 144
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.929321, y: 37.553055}
+        - {x: -21.929321, y: 6.553055}
+        - {x: -21.929321, y: -34.446945}
+        - {x: -19.929321, y: -36.446945}
+        - {x: 4.0706787, y: -36.446945}
+        - {x: 23.070679, y: -7.446945}
+        - {x: 23.070679, y: 35.553055}
+        - {x: 17.070679, y: 37.553055}
+    - name: PlayerDead_23
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 52
+        width: 144
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.984009, y: 37.553055}
+        - {x: -21.984009, y: -2.4469452}
+        - {x: -21.984009, y: -25.446945}
+        - {x: -20.984009, y: -34.446945}
+        - {x: -18.984009, y: -36.446945}
+        - {x: 4.015991, y: -36.446945}
+        - {x: 23.015991, y: -13.446945}
+        - {x: 23.015991, y: 36.553055}
+        - {x: 20.015991, y: 37.553055}
+    - name: PlayerDead_24
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 49
+        width: 144
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.8118896, y: 36.59807}
+        - {x: -20.81189, y: 1.5980682}
+        - {x: -20.81189, y: -33.40193}
+        - {x: -19.81189, y: -35.40193}
+        - {x: 9.18811, y: -35.40193}
+        - {x: 24.18811, y: 5.598068}
+        - {x: 24.18811, y: 32.59807}
+        - {x: 18.18811, y: 36.59807}
+    - name: PlayerDead_25
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 43
+        width: 147
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3311768, y: 36.188103}
+        - {x: -9.331177, y: 35.188103}
+        - {x: -21.331177, y: -13.811897}
+        - {x: -21.331177, y: -30.811897}
+        - {x: -19.331177, y: -34.811897}
+        - {x: 7.6688232, y: -34.811897}
+        - {x: 24.668823, y: -7.8118973}
+        - {x: 24.668823, y: 30.188103}
+        - {x: 21.668823, y: 36.188103}
+    - name: PlayerDead_26
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 49
+        width: 153
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.350586, y: 34.09807}
+        - {x: -22.350586, y: -18.901932}
+        - {x: -22.350586, y: -31.901932}
+        - {x: -21.350586, y: -32.90193}
+        - {x: -2.350586, y: -32.90193}
+        - {x: 25.649414, y: -8.901932}
+        - {x: 25.649414, y: 32.09807}
+        - {x: 22.649414, y: 34.09807}
+    - name: PlayerDead_27
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 49
+        width: 156
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.0080566, y: 33.59807}
+        - {x: -23.008057, y: -8.401932}
+        - {x: -23.008057, y: -32.40193}
+        - {x: 7.9919434, y: -32.40193}
+        - {x: 25.991943, y: -14.401932}
+        - {x: 25.991943, y: 33.59807}
+    - name: PlayerDead_28
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 49
+        width: 160
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.800659, y: 33.59807}
+        - {x: -8.800659, y: 4.598068}
+        - {x: -23.80066, y: -20.401932}
+        - {x: -23.80066, y: -30.401932}
+        - {x: -19.80066, y: -32.40193}
+        - {x: -0.8006592, y: -32.40193}
+        - {x: 26.19934, y: -18.401932}
+        - {x: 26.19934, y: 33.59807}
+    - name: PlayerDead_29
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 42
+        width: 203
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.22668457, y: 33.369774}
+        - {x: -30.226685, y: -7.630226}
+        - {x: -30.226685, y: -27.630226}
+        - {x: -29.226685, y: -31.630226}
+        - {x: -28.226685, y: -32.630226}
+        - {x: -13.226685, y: -32.630226}
+        - {x: 27.773315, y: -11.630226}
+        - {x: 32.773315, y: 3.3697739}
+        - {x: 32.773315, y: 30.369774}
+        - {x: 25.773315, y: 33.369774}
+    - name: PlayerDead_30
+      rect:
+        serializedVersion: 2
+        x: 5227
+        y: 42
+        width: 204
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.90026855, y: 33.369774}
+        - {x: -29.099731, y: -7.630226}
+        - {x: -29.099731, y: -32.630226}
+        - {x: -15.099731, y: -32.630226}
+        - {x: 29.900269, y: -12.630226}
+        - {x: 33.90027, y: 5.369774}
+        - {x: 33.90027, y: 30.369774}
+        - {x: 25.900269, y: 33.369774}
+    - name: PlayerDead_31
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 52
+        width: 225
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.435669, y: 28.553055}
+        - {x: -32.56433, y: -1.4469452}
+        - {x: -32.56433, y: -27.446945}
+        - {x: -17.564331, y: -27.446945}
+        - {x: 4.435669, y: -20.446945}
+        - {x: 37.43567, y: -1.4469452}
+        - {x: 37.43567, y: 22.553055}
+        - {x: 32.43567, y: 28.553055}
+    - name: PlayerDead_32
+      rect:
+        serializedVersion: 2
+        x: 5751
+        y: 137
+        width: 251
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.7959, y: -4.3890686}
+        - {x: -36.7959, y: -14.389069}
+        - {x: -35.7959, y: -16.389069}
+        - {x: 41.2041, y: -16.389069}
+        - {x: 41.2041, y: 17.610931}
+        - {x: 10.204102, y: 17.610931}
+        - {x: -32.7959, y: 8.610931}
+    - name: PlayerDead_33
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 143
+        width: 285
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
