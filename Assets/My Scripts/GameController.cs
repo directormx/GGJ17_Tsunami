@@ -10,6 +10,7 @@ public class GameController : MonoBehaviour
 
 	private AudioSource audioSource;
 	public AudioClip coinSound;
+    public AudioClip civilSound;
 	public float volume;
 
 	void Start()
@@ -47,6 +48,7 @@ public class GameController : MonoBehaviour
 	}
 	public void IncreaseCivilians()
 	{
+        PlayCivlSound();
 		civilians++;
 	}
 
@@ -66,7 +68,13 @@ public class GameController : MonoBehaviour
 	}
 
 
-	void OnGUI()
+    void PlayCivlSound()
+    {
+        audioSource.PlayOneShot(civilSound, volume);
+    }
+
+
+    void OnGUI()
 	{
 
 		GUIStyle style = new GUIStyle();
